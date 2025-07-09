@@ -1,5 +1,17 @@
 # Penetration Testing Toolkit
 
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: SOURAV
+
+INTERN ID: CT04DG3230
+
+DOMIAN: Cyber Security & Ethical Hacking
+
+DURATION: 4 Weeks
+
+## Overview 
+
 A modular Python toolkit for beginners and cybersecurity learners to practice penetration testing. Includes tools for scanning, brute forcing, directory fuzzing, and gathering network information. Logs all results to `logs/output.txt`.
 
 ---
