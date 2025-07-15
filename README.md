@@ -64,12 +64,14 @@ A modular Python toolkit for beginners and cybersecurity learners to practice pe
 
 ## What you will see after runing the code:
 
-1. Port Scanner
-2. FTP Brute Forcer
-3. Directory Fuzzer
-4. Banner Grabber
-5. WHOIS Lookup
-0. Exit
+    PENETRATION TESTING TOOLKIT
+    ---------------------------
+    1. Port Scanner
+    2. FTP Brute Forcer
+    3. Directory Fuzzer
+    4. Banner Grabber
+    5. WHOIS Lookup
+    0. Exit
 
 Choose a module:
 
@@ -77,25 +79,16 @@ Choose a module:
 
 ## Sample Outputs
 
-### Port Scanner:
-
-[+] Port 21 is OPEN
-[+] Port 80 is OPEN
-
-### FTP Brute Force:
-
-[+] Success: admin:admin
-
-### Directory Fuzzer:
-
-[+] Found: http://localhost/admin
-
-### Banner Grabber:
-
-220 FileZilla Server 1.6 ready
-
-### WHOIS Lookup:
-
-Registrar: GoDaddy.com
-Creation Date: 2021-05-01
-
+    PENETRATION TESTING TOOLKIT
+    ---------------------------
+    1. Port Scanner
+    2. FTP Brute Forcer
+    3. Directory Fuzzer
+    4. Banner Grabber
+    5. WHOIS Lookup
+    0. Exit
+Choose a module: 1
+Enter target IP: 1xx.0.x.1
+[+] Scanning ports on 1xx.0.x.1
+[+] Port 135 is OPEN
+[+] Port 445 is OPEN
