@@ -73,7 +73,7 @@ A modular Python toolkit for beginners and cybersecurity learners to practice pe
     5. WHOIS Lookup
     0. Exit
 
-Choose a module:
+    Choose a module:
 
 ---
 
@@ -87,8 +87,8 @@ Choose a module:
     4. Banner Grabber
     5. WHOIS Lookup
     0. Exit
-Choose a module: 1
-Enter target IP: 1xx.0.x.1
-[+] Scanning ports on 1xx.0.x.1
-[+] Port 135 is OPEN
-[+] Port 445 is OPEN
+    Choose a module: 1
+    Enter target IP: 1xx.0.x.1
+    [+] Scanning ports on 1xx.0.x.1
+    [+] Port 135 is OPEN
+    [+] Port 445 is OPEN
